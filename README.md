@@ -15,7 +15,7 @@ To complete this assignment please do not use the website GUI unless specificall
 10. Create and Knit an R Markdown as a HTML file with these components:
 Title: "My Submission"
 Author: CHRISTOPHER RIDDELL
-Output: 
+Output: [View submission(https://github.com/Cosmicserpent32/Test-Assignment/blob/8fdea62a06c5c31b2d5b411f1fe4cd76ceebc141/FLOWER_MARKDOWN_TESTASSIGNMENT.Rmd)]
 11. Add a Level 2 header to the markdown file and a numbered list of three reasons why version control is useful
 12. In your R markdown file add a code snippt box that solves 1 + 1
 13. Push both the R markdown file (.Rmd) and the generated .html files to the new folder you created previously.
