@@ -1,0 +1,17 @@
+---
+title: "FLOWER_MARKDOWN_TESTASSIGNMENT"
+output: html_document
+date: "2026-10-08"
+author: CHRISTOPHER RIDDELL 
+---
+## Why is Version Control important?
+
+* It allows data transparency, collaboration, data history tracking so you can keep all versions/histories of your files
+```{r}
+1+1
+```
+```{r}
+knitr::include_graphics("DataSciEES_logo.jpg")
+```
+
+[View final submission()]
